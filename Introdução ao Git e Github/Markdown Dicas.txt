@@ -1,0 +1,2 @@
+Markdown Guide link: https://www.markdownguide.org/
+Dicas e passo-a-passo para melhores praticas e introdução ao Markdown
